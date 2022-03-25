@@ -120,7 +120,7 @@ export default function ListProduct() {
                     <td>
                       <input
                         name="sku"
-                        maxLength="10"
+                        maxLength="20"
                         onChange={(e) => handleChange(e, product)}
                         value={product.sku}
                       />
