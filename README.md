@@ -2,7 +2,7 @@
  
 ## `Implementations`
 
-<!-- You can explore this project in [Demo](https://danhhoang-users-app.herokuapp.com/). -->
+You can explore this project in [Demo](https://test-teko.netlify.app/).
 
 ## `Getting Started with Create React App in development environment`
 
